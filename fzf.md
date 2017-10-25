@@ -5,6 +5,7 @@ https://github.com/junegunn/fzf
 ## fzf の概要
 
 - ファジー検索をインタラクティブな UI で提供する CLI ツール。
+- Kakao（Kakao Talk とか作ってる会社）にお勤めの [Junegunn さん](https://github.com/junegunn) による個人開発。
 - ドキュメントは README.md。
 - インストールスクリプトによるインストールが案内されているが、
   これはバイナリのダウンロードとキーバインド等の導入を自動化したもので、
